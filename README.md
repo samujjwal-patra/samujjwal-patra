@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **samujjwalpatra@gmail.com**
 
-- ⚡ Fun fact **👨‍💻 Part-time developer, 🐞 full-time bug fixer**
+- ⚡ **👨‍💻 Part-time developer, 🐞 full-time bug fixer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
