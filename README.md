@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Samujjwal Patra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+frontend+developer+from+India!!;Interested+in+UI+design+!;&center=true&width=500&height=50"></a>
+</p>
 <img align="right" alt="Avatar" width="400px" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ3NjQyMjIsIm5iZiI6MTc1NDc2MzkyMiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODA5VDE4MjUyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIyM2RmMjdhOTJlM2NlYWRhZmU3OTJlOGQ5YTRjYTNlODlkZDRkYzUzODdiN2NiZTRmZjFhMmM0ODUxM2ZmMzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-FO2pAPBLPFetYsuUWHnKoFTaVssr8Q6RpEBCpom5VI">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samujjwal-patra&label=Profile%20views&color=0e75b6&style=flat" alt="samujjwal-patra" /> </p>
